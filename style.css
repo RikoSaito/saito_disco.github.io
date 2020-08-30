@@ -1,0 +1,76 @@
+　　
+h1 {
+    color: black;
+    font-size:48px;
+    padding-left: 30px;
+}
+    
+
+    
+    span{color:red;font-family: Extra-light;}
+.title{
+    font-size:32px;;
+    color:black;
+    padding-left: 30px;
+}
+
+h2{
+    font-size:30px;
+    color:#d9376e;
+    margin:20px 30px 5px 30px; 
+}
+h3{
+    font-size:25px;
+    color:black;
+    margin: 5px 30px;
+}
+p{
+    font-size:18px;
+    padding-left: 30px;}
+
+
+h4{
+    font-size:30px;
+    color: rgba(223, 27, 20, 0.808);}
+.drink{font-size:25px;}
+
+.foods {font-size:25px;}
+
+.sweets{font-size:25px;}
+
+.Sake{font-size:22px;}
+p2{font-size: 18px;
+    padding-top: 20px;}
+.juice{font-size:22px;
+    padding-top: 25px;}
+p3{font-size: 18px;
+    padding-top:20px;}
+
+.tabemono{font-size: 18px;
+    list-style: none;}
+
+.okasi{font-size: 18px;
+    list-style: none;}
+
+.contents-item{float: left;}
+
+h5{font-size:25px;
+    color:black;}
+
+img{
+    height: 250px;
+    padding: 20px;
+    margin-top: 5px;
+}
+
+.clear-box{
+    clear: both;
+}
+
+body{
+    background-color:#b8c1ec ;
+}
+
+
+    
+    
